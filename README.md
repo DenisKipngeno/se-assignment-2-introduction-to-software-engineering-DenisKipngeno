@@ -148,7 +148,7 @@ Leads software development teams, ensures timely, budgeted, and stakeholder-sati
 -Defining project scope and requirements.
 -Creating project plans and managing resources.
 -Tracking progress and managing risks.
--Facilitating collaboration and communication.
+-Facilitates collaboration and communication.
 # Challenges: 
 -Balancing priorities, Adapting to changes, and resolving issues
 
