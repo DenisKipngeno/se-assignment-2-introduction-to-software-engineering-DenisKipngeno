@@ -16,9 +16,9 @@ On the other hand, **traditional programming** focuses mainly on writing code to
 # Software Development Life Cycle (SDLC): Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 **Software Development Life Cycle (SDLC) Phases:**
 ## i)Planning and Brainstorming (Requirements Gathering):
--In this initial stage, the development team gathers to set goals, brainstorm, and identify risks.
--Business goals, high-level requirements, and project specifications are defined.
--Risks that might impact the project’s success are identified.
+### -In this initial stage, the development team gathers to set goals, brainstorm, and identify risks.
+### -Business goals, high-level requirements, and project specifications are defined.
+### -Risks that might impact the project’s success are identified.
 ## ii)Requirements Analysis:
 -Detailed analysis of user requirements and system needs.
 -Documenting functional and non-functional requirements.
